@@ -14,7 +14,6 @@
 - [Analytical Workflow](#-analytical-workflow)
 - [Visualizations & Core Inferences](#-visualizations)
 - [Strategic Business Insights](#-strategic-business-insights)
-- [Repository Structure](#-repository-structure)
 - [How to Run](#-how-to-run)
 - [Author & Contact](#author--contact)
 
