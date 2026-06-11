@@ -116,8 +116,8 @@ jupyter notebook "Flight data analysis.ipynb"
 
 📧 Email: vivekkdeore001@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🔗 LinkedIn: https://linkedin.com/in/vivekkdeore
 
-🔗 GitHub: https://github.com/yourusername
+🔗 GitHub: https://github.com/vickykd-5
 
 `#python` `#pandas` `#exploratory-data-analysis` `#data-visualization` `#revenue-management`, `#airline-industry` `#aviation-analytics` `#data-cleaning` `#seaborn`, `#matplotlib` `#business-intelligence` `#yield-optimization` `#data-science` `#analytics-engineering`
